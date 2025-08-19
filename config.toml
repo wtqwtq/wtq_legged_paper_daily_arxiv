@@ -1,4 +1,4 @@
-site_title = "Papers that Tianqi Wang loves to read"
+site_title = "王天奇爱看的论文"
 limit_days = 30
 cache_url = "https://wtqwtq.github.io/wtq_legged_papaer_daily_arxiv/cache.json"
 
