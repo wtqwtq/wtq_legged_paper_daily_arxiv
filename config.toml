@@ -1,5 +1,5 @@
 site_title = "wtq爱看的论文"
-limit_days = 7
+limit_days = 30
 cache_url = "https://wtqwtq.github.io/wtq_legged_papaer_daily_arxiv/cache.json"
 
 [[sources]]
