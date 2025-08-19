@@ -7,27 +7,6 @@ limit = 150
 category = "cs.RO"
 title = "Robotics"
 
-[[sources]]
-limit = 120
-category = "physics.bio-ph"
-title = "Biological Physics (biomech)"
-
-[[sources]]
-limit = 80
-category = "q-bio.NC"
-title = "Quantitative Biology (Neurons & Cognition)"
-
-[[sources]]
-limit = 60
-category = "q-bio.OT"
-title = "Quantitative Biology (Other)"
-
-# （可选，偶尔有步态/波动/接触研究）
-[[sources]]
-limit = 40
-category = "cond-mat.soft"
-title = "Soft Matter (optional)"
-
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
