@@ -4,28 +4,9 @@ cache_url = "https://wtqwtq.github.io/wtq_legged_papaer_daily_arxiv/cache.json"
 
 [[sources]]
 limit = 150
-category = "cs.CL"
-title = "Computation and Language"
+category = "cs.RO"
+title = "机器人技术"
 
-[[sources]]
-limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
-
-[[sources]]
-limit = 150
-category = "cs.IR"
-title = "Information Retrieval"
-
-[[sources]]
-limit = 150
-category = "cs.LG"
-title = "Machine Learning"
-
-[[sources]]
-limit = 150
-category = "cs.MM"
-title = "Multimedia"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
